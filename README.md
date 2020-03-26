@@ -1,2 +1,2 @@
 # trading_strategies
-Testing ideas for trading strategies
+Momentum and pairs trading. 
